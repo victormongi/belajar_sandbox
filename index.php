@@ -14,6 +14,7 @@
     <ul>
         <li><a href="standarpsr.php">Standar PSR (PHP Standar Recomendation)</a></li>
         <li><a href="oop-intro.php">OOP - Intro</a></li>
+        <li><a href="oop-intro.php">OOP - Intro</a></li>
     </ul>
 </body>
 </html>
